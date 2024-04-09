@@ -1,0 +1,22 @@
+.images{
+    background-image:url(../images/bg_Argyle.jpg)
+}
+
+#カレー{
+    border:double 10px red;
+}
+.t{
+    border:solid 1px black;
+}
+.t{
+    border-radius: 10px;
+   }
+body{
+        text-align: center;
+}
+
+.{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+  }
